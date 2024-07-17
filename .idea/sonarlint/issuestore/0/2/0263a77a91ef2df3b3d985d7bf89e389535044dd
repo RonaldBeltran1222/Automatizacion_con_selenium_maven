@@ -1,0 +1,13 @@
+
+U
+java:S1854$"8Remove this useless assignment to local variable "wait".(›À¹Ö8ú´¾µ‡2
+F
+java:S1481$")Remove this unused "wait" local variable.(›À¹Ö8û´¾µ‡2
+P
+java:S1128"3Remove this unused import 'org.openqa.selenium.By'.(ÿŠÞ›8ý´¾µ‡2
+]
+java:S1128";Remove this unused import 'org.openqa.selenium.WebElement'.(‰ïµ”þÿÿÿÿ8ý´¾µ‡2
+p
+java:S1128"NRemove this unused import 'org.openqa.selenium.support.ui.ExpectedConditions'.(û€Èéúÿÿÿÿ8ý´¾µ‡2
+J
+java:S1068"(Remove this unused "info" private field.(¬ü×£úÿÿÿÿ8ý´¾µ‡2
